@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qt6dhYGbcJBVk/IeN3gRmuRg2jO99o9EiXxbWYIIi1l8HP6BnQVXQ2dVE34QyOv+WAkHkCx61YZIM8Sh4k04iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ricardo\\Desktop\\Memory matching game\\Memory matching game slutliga by Ricardo Haddad\\Memory matching game\\Memory matching game\\Memory matching game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
